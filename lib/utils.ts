@@ -14,7 +14,7 @@ export const siteConfig = {
   logo: "/logo.png",
   ogImage: "/images/hero.png",
   email: "leomerromero42@gmail.com",
-  github: "https://github.com/leomer21",
+  github: "https://github.com/leomer42",
   linkedin: "https://www.linkedin.com/in/leomer-romero/",
   facebook: "https://www.facebook.com/share/18grjBJa8v/",
   resumeUrl:
