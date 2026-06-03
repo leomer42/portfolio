@@ -1,0 +1,29 @@
+[
+  {
+    "title": "AWS Cloud Architecture",
+    "description": "Designed and deployed event-driven systems using Lambda, SQS, SNS, and containerized services on ECS.",
+    "items": [
+      "Built serverless workflows for async message processing and notification delivery",
+      "Configured auto-scaling policies and monitoring with CloudWatch",
+      "Managed infrastructure as code for reproducible deployments"
+    ]
+  },
+  {
+    "title": "Azure Platform Deployment",
+    "description": "Deployed and managed scalable web applications on Azure with high availability requirements.",
+    "items": [
+      "Configured App Services and container deployments for production workloads",
+      "Achieved 99.9% uptime for client-facing SaaS applications",
+      "Implemented environment separation for staging and production releases"
+    ]
+  },
+  {
+    "title": "API & Microservices Engineering",
+    "description": "Built RESTful APIs and microservice architectures for high-traffic, multi-tenant applications.",
+    "items": [
+      "Developed REST APIs with authentication, rate limiting, and comprehensive error handling",
+      "Integrated Apache Kafka for event streaming between distributed services",
+      "Optimized database queries and caching strategies for API performance"
+    ]
+  }
+]

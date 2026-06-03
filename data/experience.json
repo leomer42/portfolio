@@ -1,0 +1,66 @@
+[
+  {
+    "company": "Canva",
+    "role": "Senior Full Stack Engineer",
+    "period": "May 2021 – Present",
+    "location": "Sydney, Australia · Remote",
+    "url": "https://www.canva.com/",
+    "description": "Design platform serving millions of users worldwide.",
+    "highlights": [
+      "Built and maintained full stack features using React, Node.js, and PHP/Laravel across product surfaces used by 1M+ users.",
+      "Developed microservices with Node.js and WebSocket for real-time data sync, reducing API response times by ~35%.",
+      "Integrated AWS services (SQS, SNS, Lambda) for scalable event-driven workflows and improved system reliability.",
+      "Implemented Apache Kafka pipelines for high-throughput data streaming between microservices.",
+      "Contributed to CI/CD pipelines with GitHub Actions and Docker for automated testing and deployments."
+    ],
+    "tags": ["React", "Node.js", "AWS", "Kafka", "Microservices"]
+  },
+  {
+    "company": "Microsystem Ai WiFi",
+    "role": "Senior Full Stack Developer",
+    "period": "Feb 2018 – Apr 2021",
+    "location": "Smart Village, Giza, Egypt",
+    "url": "https://hotspot.microsystem.com.eg/",
+    "description": "Cloud-based WiFi management and marketing platform for enterprise clients.",
+    "highlights": [
+      "Migrated Laravel from 5.2 to latest version while transitioning MySQL to MongoDB with zero downtime.",
+      "Built RESTful APIs processing 100K+ monthly transactions using Python (Flask, FastAPI) and Laravel.",
+      "Deployed scalable applications on Azure achieving 99.9% uptime for high-traffic client environments.",
+      "Introduced Apache Kafka for real-time event processing, increasing system throughput by ~60%.",
+      "Developed Vue.js and React frontends integrated with backend APIs for admin dashboards and client portals."
+    ],
+    "tags": ["Laravel", "Vue.js", "Azure", "FastAPI", "MongoDB"]
+  },
+  {
+    "company": "Globe Telecom",
+    "role": "Software Developer",
+    "period": "Aug 2015 – Jan 2018",
+    "location": "Taguig, Metro Manila, Philippines",
+    "url": "https://www.globe.com.ph/",
+    "description": "Leading telecom provider in the Philippines.",
+    "highlights": [
+      "Developed internal web applications with PHP, Laravel, and Vue.js for operational and customer-facing tools.",
+      "Contributed to systems processing 500K+ daily transactions with 99.9% uptime requirements.",
+      "Built real-time inventory tracking with Node.js and WebSocket for instant product updates.",
+      "Integrated AWS cloud services for secure data storage and analytics pipelines.",
+      "Implemented PHPUnit test suites and automated deployment workflows."
+    ],
+    "tags": ["Laravel", "Vue.js", "Node.js", "AWS", "WebSocket"]
+  },
+  {
+    "company": "PLDT",
+    "role": "Junior Software Developer",
+    "period": "May 2008 – Jul 2015",
+    "location": "Makati City, Metro Manila, Philippines",
+    "url": "https://pldthome.com/",
+    "description": "Philippines' largest telecommunications and digital services provider.",
+    "highlights": [
+      "Contributed to CRM systems serving 1M+ users, improving response times by ~15%.",
+      "Built full stack web applications with PHP/Laravel and JavaScript for internal business tools.",
+      "Supported on-premise to cloud migration initiatives with basic AWS service integration.",
+      "Developed responsive interfaces with CSS and Tailwind CSS ensuring cross-browser compatibility.",
+      "Optimized backend API responses and database queries to reduce server load."
+    ],
+    "tags": ["PHP", "Laravel", "JavaScript", "MySQL", "AWS"]
+  }
+]

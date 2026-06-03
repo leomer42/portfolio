@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Frontend",
+    "skills": ["React", "Next.js", "Vue.js", "TypeScript", "JavaScript", "Tailwind CSS"]
+  },
+  {
+    "category": "Backend",
+    "skills": ["Node.js", "Python", "PHP", "Laravel", "FastAPI", "Flask", "REST APIs"]
+  },
+  {
+    "category": "Cloud & DevOps",
+    "skills": ["AWS", "Azure", "Docker", "GitHub Actions", "CI/CD", "Cloud Infrastructure"]
+  },
+  {
+    "category": "Data & Systems",
+    "skills": ["MongoDB", "PostgreSQL", "MySQL", "Apache Kafka", "WebSocket", "Microservices"]
+  },
+  {
+    "category": "AI / Modern Engineering",
+    "skills": [
+      "AI-Powered Applications",
+      "LLM Integrations",
+      "AI Automation",
+      "OpenAI API",
+      "AI Workflows"
+    ]
+  }
+]

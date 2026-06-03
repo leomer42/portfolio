@@ -1,0 +1,29 @@
+[
+  {
+    "title": "LLM-Powered Product Features",
+    "description": "Integrated OpenAI API into production web applications for content generation, smart search, and user-facing AI assistants.",
+    "items": [
+      "Built prompt pipelines with structured outputs and error handling for reliable LLM responses",
+      "Designed backend services to manage API rate limits, caching, and cost tracking",
+      "Created admin tools for monitoring AI workflow performance and usage metrics"
+    ]
+  },
+  {
+    "title": "AI Workflow Automation",
+    "description": "Developed automation systems that combine API integrations, scheduled jobs, and AI agents for business process efficiency.",
+    "items": [
+      "Automated document processing and data extraction workflows using LLM integrations",
+      "Built webhook-driven pipelines connecting third-party services with AI processing steps",
+      "Implemented queue-based job processing for async AI task execution"
+    ]
+  },
+  {
+    "title": "Backend AI Services",
+    "description": "Architected backend services that expose AI capabilities through clean REST APIs for frontend and mobile clients.",
+    "items": [
+      "Designed API contracts for AI features with versioning and authentication",
+      "Implemented streaming responses for real-time AI chat interfaces",
+      "Built fallback and retry logic for production-grade AI service reliability"
+    ]
+  }
+]

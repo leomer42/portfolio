@@ -1,0 +1,21 @@
+{
+  "name": "Leomer Romero",
+  "title": "Senior Full Stack Engineer",
+  "subtitle": "I build scalable web applications, cloud-native platforms, and AI-powered digital products using modern full stack technologies.",
+  "availability": "Open to remote full stack roles with international teams",
+  "location": "Philippines · Remote",
+  "heroImage": "/images/hero.png",
+  "heroImageAlt": "Leomer Romero, Senior Full Stack Engineer",
+  "about": [
+    "I'm a Senior Full Stack Engineer with 10+ years of experience building production web applications across telecom, SaaS, and enterprise platforms. I work across the stack — from React and Next.js frontends to Node.js, PHP/Laravel, and Python backends — with a focus on performance, reliability, and clean API design.",
+    "My recent work includes real-time data systems with WebSockets and Apache Kafka, cloud deployments on AWS and Azure, and AI-powered features using LLM integrations and workflow automation. I care about shipping maintainable code, improving developer experience, and building products that scale.",
+    "I'm looking for remote opportunities where I can contribute hands-on full stack development on modern, high-impact products."
+  ],
+  "focusAreas": [
+    "Scalable SaaS Platforms",
+    "Cloud-Native Systems",
+    "AI-Powered Applications",
+    "Backend & API Engineering",
+    "Real-Time Web Platforms"
+  ]
+}

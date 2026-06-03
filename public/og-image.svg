@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="#171717" stroke="#262626" stroke-width="2"/>
+  <text x="120" y="280" fill="#fafafa" font-family="system-ui, sans-serif" font-size="56" font-weight="700">Leomer Romero</text>
+  <text x="120" y="340" fill="#3b82f6" font-family="system-ui, sans-serif" font-size="32" font-weight="600">Senior Full Stack Engineer</text>
+  <text x="120" y="400" fill="#a3a3a3" font-family="system-ui, sans-serif" font-size="22">Scalable web apps · Cloud-native systems · AI-powered products</text>
+  <circle cx="1050" cy="160" r="60" fill="#2563eb" opacity="0.2"/>
+  <circle cx="1100" cy="420" r="80" fill="#7c3aed" opacity="0.15"/>
+</svg>

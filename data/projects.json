@@ -1,0 +1,67 @@
+[
+  {
+    "title": "AI Content Assistant SaaS",
+    "description": "Multi-tenant SaaS platform with LLM-powered content generation, user workspaces, and subscription billing.",
+    "highlights": [
+      "Next.js frontend with server and client components",
+      "OpenAI API integration for content workflows",
+      "Node.js API with role-based access control",
+      "Stripe subscription and usage metering"
+    ],
+    "tags": ["Next.js", "OpenAI API", "Node.js", "PostgreSQL"],
+    "category": "AI-Powered SaaS",
+    "gradient": "from-violet-500/20 to-purple-600/20"
+  },
+  {
+    "title": "Real-Time Analytics Dashboard",
+    "description": "Live monitoring platform with WebSocket feeds, interactive charts, and alert management for operations teams.",
+    "highlights": [
+      "React dashboard with real-time data visualization",
+      "WebSocket and Kafka event streaming pipeline",
+      "Sub-second update latency for critical metrics",
+      "Role-based dashboards for multi-team access"
+    ],
+    "tags": ["React", "WebSocket", "Kafka", "Node.js"],
+    "category": "Real-Time Platform",
+    "gradient": "from-cyan-500/20 to-blue-600/20"
+  },
+  {
+    "title": "Cloud Event Processing Backend",
+    "description": "Serverless event-driven backend on AWS handling high-volume message processing and async job orchestration.",
+    "highlights": [
+      "AWS Lambda, SQS, and SNS event architecture",
+      "Dockerized microservices with auto-scaling",
+      "GitHub Actions CI/CD with automated testing",
+      "99.9% uptime SLA for production workloads"
+    ],
+    "tags": ["AWS", "Docker", "Microservices", "CI/CD"],
+    "category": "Cloud Backend",
+    "gradient": "from-emerald-500/20 to-teal-600/20"
+  },
+  {
+    "title": "Enterprise Admin Dashboard",
+    "description": "Full stack admin portal for managing users, permissions, reporting, and system configuration at scale.",
+    "highlights": [
+      "Vue.js and React component library integration",
+      "Laravel and Node.js REST API backends",
+      "PostgreSQL with optimized query patterns",
+      "Responsive design with accessibility compliance"
+    ],
+    "tags": ["Vue.js", "Laravel", "PostgreSQL", "REST APIs"],
+    "category": "Full Stack Dashboard",
+    "gradient": "from-amber-500/20 to-orange-600/20"
+  },
+  {
+    "title": "Workflow Automation Platform",
+    "description": "Internal automation tool connecting APIs, scheduled jobs, and AI agents for business process automation.",
+    "highlights": [
+      "Visual workflow builder with trigger/action nodes",
+      "LLM integration for document processing tasks",
+      "Python FastAPI services for job execution",
+      "Webhook and third-party API connectors"
+    ],
+    "tags": ["FastAPI", "AI Automation", "Python", "REST APIs"],
+    "category": "Automation",
+    "gradient": "from-rose-500/20 to-pink-600/20"
+  }
+]
